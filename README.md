@@ -1,4 +1,4 @@
-# EVC Visual Pollution Detection with Computer Vision
+# Visual Pollution Detection with Computer Vision
 
 This project addresses the pervasive issue of visual pollution in urban environments through advanced computer vision techniques. Utilizing state-of-the-art algorithms like YOLOv8, this initiative aims to identify and analyze complex patterns of visual pollution in real-time. 
 
