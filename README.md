@@ -24,4 +24,4 @@ To enhance the robustness and applicability of our solution, future iterations w
 
 Do you have any questions or feedback? Please feel free to reach out.
 
-# Feel free to view the Results of the model in the code section, and the pptx file.
+# Feel free to view the Results of the model in the ipynb file, and the pptx file.
