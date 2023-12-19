@@ -11,6 +11,8 @@ The training process involved dividing the dataset into training and validation 
 - **Enhanced Object Detection**: Integration of YOLOv8 enabled more accurate and real-time identification of visual pollution.
 - **Model Evaluation**: Utilization of a normalized confusion matrix and precision to confidence measures showcased the model's predictive capabilities.
 
+![image](https://github.com/zain-codes/EVC_Visual_pollution_computerVision/assets/129910179/49f6870a-b167-4d08-8168-9b02792bc610)
+
 ## Future Work
 
 To enhance the robustness and applicability of our solution, future iterations will focus on:
@@ -25,3 +27,4 @@ To enhance the robustness and applicability of our solution, future iterations w
 Do you have any questions or feedback? Please feel free to reach out.
 
 # Feel free to view the Results of the model in the ipynb file, and the pptx file.
+
