@@ -26,3 +26,5 @@ To enhance the robustness and applicability of our solution, future iterations w
 This project would not have been possible without the dedicated efforts of our team and the guidance of our mentors. Special thanks to Slidesgo for providing the presentation template and to Flaticon for the icons used in our visual materials.
 
 Do you have any questions or feedback? Please feel free to reach out.
+
+#Feel free to view the Results of the model in the code section, and the pptx file.
