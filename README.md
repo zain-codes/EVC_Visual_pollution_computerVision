@@ -13,7 +13,8 @@ The training process involved dividing the dataset into training and validation 
 
 ![image](https://github.com/zain-codes/EVC_Visual_pollution_computerVision/assets/129910179/49f6870a-b167-4d08-8168-9b02792bc610)
 
-https://github.com/zain-codes/EVC_Visual_pollution_computerVision/assets/129910179/32403039-08ac-41ae-8cdf-6c1706c8521d
+![Visualpollutiondetectionsystemdemonstration-ezgif com-optimize](https://github.com/zain-codes/EVC_Visual_pollution_computerVision/assets/129910179/cc529f2d-d575-4a09-aaf0-1d75d2041c6b)
+
 
 
 ## Future Work
